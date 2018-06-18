@@ -141,6 +141,7 @@ start:
 		printf("Введите количество поездок: ");
 		scanf("%d", &npoezdok);
 
+
 		break;
 		}
 	goto start;
