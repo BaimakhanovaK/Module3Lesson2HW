@@ -130,7 +130,6 @@ start:
 			printf("Отлично \n");
 			break;
 		}
-		break;
 		}
 	goto start;
 	}
